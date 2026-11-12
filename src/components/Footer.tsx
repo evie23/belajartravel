@@ -48,7 +48,7 @@ export function Footer() {
             </p>
             <address className="mt-2 flex max-w-xs gap-2 text-sm not-italic leading-relaxed text-paper/70">
               <MapPin className="mt-0.5 size-4 shrink-0 text-tangerine" strokeWidth={2.5} />
-              Jl. Jalan-Jalan No. 8, Kebayoran Baru, Jakarta Selatan, DKI Jakarta 12190
+              Margonda, Depok
             </address>
 
             <p className="mt-8 font-mono text-[11px] font-bold uppercase tracking-[0.18em] text-lime">
