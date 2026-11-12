@@ -7,6 +7,7 @@ const links = [
   { label: "Private Trip", href: "#private-trip" },
   { label: "Bisnis Trip", href: "#private-trip" },
   { label: "Promo", href: "#promo", hot: true },
+  { label: "Testimoni", href: "#testimoni" },
 ];
 
 export function Logo({ className = "" }: { className?: string }) {
